@@ -1,0 +1,19 @@
+.pendu{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LetterButtons{
+  display: flex;
+  margin-top: 5%;
+}
+
+.clicked{
+  background-color: grey;
+}
+
+.words{
+  margin-top: 10%;
+  letter-spacing: 2px;
+}
